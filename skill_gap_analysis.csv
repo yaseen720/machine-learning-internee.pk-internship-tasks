@@ -1,0 +1,5 @@
+Intern ID,Intern Role,Current Skills,Missing Skills,Training Recommendation,Gap Count
+1,Machine Learning Intern,"machine learning, scikit-learn, python, pandas",,No major gaps,0
+2,Web Development Intern,"html, css, javascript",react,Recommended to learn: react,1
+3,Data Analyst Intern,"sql, excel, data visualization","html, css, react, javascript","Recommended to learn: html, css, react, javascript",4
+4,AI Intern,"nlp, deep learning, python","machine learning, sql, tensorflow","Recommended to learn: machine learning, sql, tensorflow",3
